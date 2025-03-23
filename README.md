@@ -45,6 +45,12 @@ First, install Python 3.6+ if you don't have it already.
 
 #### Install Python 3.6+ and Pip
 
+/***************Create the virtual environment using python3 -m venv: ******************/
+	>	python3 -m venv myenv
+
+
+python3 -m venv myenv
+
 If Python is not installed, use the following commands:
 
 ```bash
@@ -80,3 +86,6 @@ It’s recommended to use a Python virtual environment to avoid conflicts with s
 
 ****	 To stop the firewall and halt the packet capture, visit the following URL:
 	>>	http://127.0.0.1:5000/stop-firewall
+
+
+
